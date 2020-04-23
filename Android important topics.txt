@@ -1,0 +1,28 @@
+1.Service(job scheduler)
+2.Broadcast reciever
+3.Activity
+4.Content provider
+5.Fragment(frgament,child fragment ,frgament for pagination)
+6.navigation
+7.MVVM
+8.Firebase
+9.SQLlite and room  persistence
+10.Data binding
+12.Pagination
+13.Google map
+14.Thread pool
+15.Shared prefrences.
+16.AsyncTask
+17.intent & intent filter
+18.Manifest file
+19.Serializable & parceble
+20.launch modes
+21.Notification Camera API.
+22.pERMISSIONS.
+23.Dependency injection
+24.Voice recognisation
+25.Image object identification
+26.Text identification
+27.Android sensores
+28.Emulator
+29.Constaint layout
